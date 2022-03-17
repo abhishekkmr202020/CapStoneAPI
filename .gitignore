@@ -3,3 +3,11 @@
 ################################################################################
 
 /.vs
+/DataLibrary/bin/Debug/net5.0
+/DataLibrary/obj
+/EntityLib/obj
+/EntityLib/bin/Debug/net5.0
+/MedicineAPI/bin/Debug/net5.0
+/MedicineAPI/obj
+/TestProject/obj
+/TestProject/bin/Debug/net5.0
